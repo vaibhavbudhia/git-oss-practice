@@ -1,3 +1,3 @@
 ## Git Workflow
 
-This repository is used to practice the open-source contribution workflow.
+This repository is used to practice the open-source contribution.
